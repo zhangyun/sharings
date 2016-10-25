@@ -86,7 +86,7 @@ public class BadSmellSizing {
                                 ...
                                 ) {}
 
-         public boolean validate(User u, Company c, Shipping s) {}
+        public boolean validate(User u, Company c, Shipping s) {}
          */
 
         /**
@@ -115,7 +115,7 @@ public class BadSmellSizing {
         }
 
         public class MiddleLayerA ... MiddleLayerZ {}
-        
+
          */
     }
 }
